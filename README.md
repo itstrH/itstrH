@@ -1,14 +1,7 @@
-<div>
-  <h1 style="color: blue;">Hi Guys,👈 I'm Huy</h1>
-</div>
-<div>
-  <h3>I’m currently studying at:</h3>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PTIT.jpg"c alt="ptit logo" width="40" height="40">
-  </div>
-</div>
-<div>
-  <h3>Languages:</h3>
+<h1 style="color: blue;">Hi Guys,👈 I'm Huy</h1>
+<h3>I’m currently studying at:</h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PTIT.jpg"c alt="ptit logo" width="40" height="40">
+<h3>Languages:</h3>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> 
@@ -17,11 +10,11 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40"/> 
   </div>
-  <h3>Tools:</h3> 
+<h3>Tools:</h3>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </div>
-</div>
-
 
 
